@@ -12,6 +12,9 @@ My current website has branding that isn't my favorite. I also need practice mak
 # Step in Order
 
 ## Hugo
+You may have to move the contents of the folder into the root of the repository.
+
 CLI to setup new site in repository Webmaster-B
 - Create new site: `hugo new site Webmaster-B`
 - Create new theme: `hugo new theme Dev-Site`
+- Create blog post: `hugo new blog/first-blog.md`
