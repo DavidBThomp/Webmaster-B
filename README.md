@@ -1,6 +1,8 @@
 # Webmaster-B
 Remake and rebrand of DevBThom. Branding will be based around [@Amanster23]([https://www.github.com/username](https://github.com/Amanster23)) ideas. I was going to do his generic IT site but I'm feeling a bit more adventurous. I will also have to learn SASS and create my first Hugo "Theme". I say "Theme" because as a first shot I don't think this will be too modular but there will be a slight attempt. It will act more as learning chance for the first Hugo site I make.
 
+Correction: Site will be lawn mowing business.
+
 ## Project-Stack
 - Netlify Deployment
 = SASS
